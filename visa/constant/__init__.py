@@ -68,6 +68,15 @@ MODEL_TRAINER_MODEL_CONFIG_DIR_KEY ="model_config_dir"
 MODEL_TRAINER_MODEL_CONFIG_FILE_NAME_KEY ="model_config_file_name"
 
 
-# Model Validation variable
+# Model Evaluation Related variable
+MODEL_EVALUATION_CONFIG_KEY ="model_evaluation_config"
+MODEL_EVALUATION_FILE_NAME_KEY ="model_evaluation_file_name"
+MODEL_EVALUATION_ARTIFACT_DIR ="model_evaluation"
 
-# Model Pusher Varable
+BEST_MODEL_KEY ="best_model"
+HISTORY_KEY ="history"
+MODEL_PATH_KEY ="model_path"
+
+# Model Pusher Related Variables
+MODEL_PUSHER_CONFIG_KEY ="model_pusher_config"
+MODEL_PUSHER_MODEL_EXPORT_DIR_KEY = "model_export_dir"
