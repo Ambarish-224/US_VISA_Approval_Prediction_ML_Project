@@ -1,3 +1,11 @@
 # US VISA Approval Prediction ML Project
 
-This project presents a ML based solution using ML Algorithm to predict which visa applications will be approved and thus recommend a suitable profile for applicants whose visa have a high chance of approval.
+## Problem statement.
+
+* OFLC gives job certification applications for employers seeking to bring foreign workers into the United States and grants certifications. 
+* As In last year the count of employees were huge so OFLC needs Machine learning models to shortlist visa applicants based on their previous data.
+
+**In this project we are going to use the data given to build a Classification model:**
+
+* This model is to check if Visa get approved or not based on the given dataset.
+* This can be used to Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the certain criteria which influences the decision.
